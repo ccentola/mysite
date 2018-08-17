@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "" # Contain the path of the optionnal avatar in the static folder.
 
-    footercontent = "Enter a text here." # Add footer content
+    footercontent = "Less is more." # Add footer content
 
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = true
@@ -41,13 +41,13 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     weight = 1
     url = "https://github.com/ccentola/"
 [[params.social]]
-    name = "Twitter"
-    weight = 2
-    url = ""
-[[params.social]]
     name = "LinkedIn"
-    weight = 3
+    weight = 2
     url = "https://www.linkedin.com/in/carlcentola/"
+[[params.social]]
+    name = "Contact"
+    weight = 2
+    url = "mailto:carl.centola@gmail.com"
 
 # Menu links
 [[menu.main]]
