@@ -11,7 +11,8 @@ pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
 pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
-disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+disqusShortname = "ccentola-github-io" # Enable or disable Disqus.
+googleAnalytics = "UA-124215224-1" # Enables Google Analytics
 
 [params] # theme parameters
     author = "Carl Centola" # Author's name.
