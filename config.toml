@@ -1,4 +1,4 @@
-baseurl = "https://ccentola.github.io/" # Hostname (and path) to the root.
+baseurl = "/" # Hostname (and path) to the root.
 title = "Carl Centola" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
