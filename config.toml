@@ -63,3 +63,7 @@ googleAnalytics = "UA-124215224-1" # Enables Google Analytics
     name = "Projects"
     weight = 3
     url = "/projects/"
+[[menu.main]]
+    name = "Resources"
+    weight = 4
+    url = "/resources/"
