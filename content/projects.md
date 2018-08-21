@@ -7,3 +7,7 @@ draft: false
 ## ccentola.github.io
 My personal website and blog.
 [https://ccentola.github.io/](https://ccentola.github.io/)
+
+## Adventure Works Cycle Customer Analysis
+Predicting sales for Adventure Works Cycle.
+[https://github.com/ccentola/adventure-works/blob/master/aw_analysis.md](https://github.com/ccentola/adventure-works/blob/master/aw_analysis.md)
