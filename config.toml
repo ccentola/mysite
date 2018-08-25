@@ -40,14 +40,17 @@ googleAnalytics = "UA-124215224-1" # Enables Google Analytics
 [[params.social]]
     name = "Github"
     weight = 1
+    icon = "fab fa-github-square fa-2x"
     url = "https://github.com/ccentola/"
 [[params.social]]
     name = "LinkedIn"
     weight = 2
+    icon = "fab fa-linkedin fa-2x"
     url = "https://www.linkedin.com/in/carlcentola/"
 [[params.social]]
     name = "Contact"
     weight = 2
+    icon = "fas fa-envelope fa-2x"
     url = "mailto:carl.centola@gmail.com"
 
 # Menu links
